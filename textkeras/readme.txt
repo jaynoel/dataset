@@ -1,3 +1,7 @@
+case :  https://realpython.com/python-keras-text-classification/
+dataset: https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences
+
+
 This dataset was created for the Paper 'From Group to Individual Labels using Deep Features', Kotzias et. al,. KDD 2015
 Please cite the paper if you want to use it :)
 
